@@ -1,0 +1,23 @@
+{
+  "name": "asincronismo-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page creada en el curso de asincronismo de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-ser/asincronismo-landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-ser/asincronismo-landing-page/issues"
+  },
+  "homepage": "https://github.com/K-ser/asincronismo-landing-page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
